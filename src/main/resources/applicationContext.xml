@@ -20,8 +20,8 @@
           class="org.example.MusicPlayer">
         <property name="music" ref="musicBean"/>
 
-        <property name="name" ref="Alice"/>
-        <property name="volume" ref="50"/>
+        <property name="name" value="Alice"/>
+        <property name="volume" value="50"/>
 
     </bean>
 
